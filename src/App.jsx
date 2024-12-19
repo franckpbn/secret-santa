@@ -51,7 +51,8 @@ export default function App() {
   };
 
   return (
-    <div className="container mx-auto p-4">
+    <div 
+      className="container h-screen">
       <div>
         {/* // affiche l'écran en fonction de l'état de l'application // WELCOME */}
         {currentScreen === "welcome" && (
