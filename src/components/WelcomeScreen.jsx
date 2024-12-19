@@ -19,7 +19,7 @@ export function WelcomeScreen({ onStart }) {
           Commencer
         </button>
       </div>
-      <div className="flex justify-between pl-8 items-center ">
+      <div className=" flex justify-between pl-8 items-center ">
         <img className="h-fit" src="canne.png" alt="Canne" />
         <img className="" src="cookies.png" alt="Cookies" />
       </div>
