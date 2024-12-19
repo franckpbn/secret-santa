@@ -14,7 +14,7 @@ export function WelcomeScreen({ onStart }) {
         <img className=" w-2/3 pt-24" src="livre.png" alt="Livre" />
         <button
           onClick={onStart}
-          className="w-2/4 flex justify-center bg-jaune-clair text-rouge  py-3 rounded-full shadow-lg hover:bg-gray-100 transition font-bold text-lg"
+          className="w-2/4 flex justify-center bg-jaune-clair text-rouge  py-3 rounded-full shadow-[0_5px_1px_2px_rgba(0,0,0,0.1)] font-bold text-lg"
         >
           Commencer
         </button>

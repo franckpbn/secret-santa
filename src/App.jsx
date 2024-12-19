@@ -61,7 +61,7 @@ export default function App() {
         {/* // INPUT */}
         {currentScreen === "input" && (
           <>
-            <h2 className="text-2xl font-bold mb-6 text-center">
+            <h2 className="text-jaune-clair text-5xl font-flop pt-12 text-center">
               Ajoutez les participants
             </h2>
             <ParticipantInput

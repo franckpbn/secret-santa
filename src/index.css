@@ -30,6 +30,7 @@
 */
 @theme {
   --color-rouge: #A6101B;
+  --color-rouge-fonce: #670F13;
   --color-jaune-clair: #FAE6D2;
   --font-flop: "Style Script", serif;
 }
